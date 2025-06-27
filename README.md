@@ -1,6 +1,11 @@
-![Header](img/github-header-image.png)
+<div align="center">
+  <img src="img/github-header-image.png" alt="Header" />
+</div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JpNGI3bGo1c2ZnZzM5NHVnMTE5YmdpczV2bHQwdWVyNWkyb2d0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
